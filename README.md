@@ -16,4 +16,17 @@ Programa que imprime todos os números primos de 1 a 100.
 Programa que vai gerar um número aleatório entre 1 a 100 para o usuário tentar acertar.
 - O jogo informa se o palpite está alto, baixo ou correto.
 - O jogo só termina quando o usuário acerta o número.
+## Exercício 06 - Escada alfabética
+Programa que vai gerar um padrão de caracteres que formam uma escada, onde o usuário vai entrar com a altura desse padrão. Para o exemplo abaixo a entrada foi 5:
+A
+BC
+DEF
+GHIJ
+KLMNO
+## Exercício 07 - Gerar padrão com asteriscos
+Programa que recebe um valor inteiro representando a altura e vai ter como saída os seguintes padrões: 
+![Alt text](image.png)
+Nos exemplos acima, a entrada foi 4.
+## Exercício 08 - Número perfeito.
+Programa que vai ler um número e determinar se ele é um número perfeito, ou seja, um número cuja soma dos seus divisores, excluindo ele mesmo, é igual ao próprio número.
 
